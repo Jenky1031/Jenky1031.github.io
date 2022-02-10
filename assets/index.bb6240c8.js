@@ -1,1 +1,0 @@
-import{_ as e}from"./index.dfa5a14c.js";import{o,g as r}from"./vendor.48188085.js";const c={},s={class:""};function n(t,a){return o(),r("div",s,"\u9080\u8BF7\u5F92\u5F1F")}var f=e(c,[["render",n]]);export{f as default};
